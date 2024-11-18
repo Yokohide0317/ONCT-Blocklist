@@ -20,3 +20,4 @@ curl -L -k <URL>
 | 凡デザイン | https://bon.design/ | ITサービス &gt; デジタル素材 | |
 | ソコスト | https://soco-st.com/ | ITサービス &gt; デジタル素材 | |
 | Human Pictogram 2.0 | https://pictogram2.com/ | ITサービス &gt; デジタル素材 | |
+| AlphaFold3 | https://alphafoldserver.com/ | 未分類 |  |
